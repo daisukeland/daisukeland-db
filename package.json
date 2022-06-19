@@ -1,0 +1,11 @@
+{
+  "name": "daisukeland-db",
+  "version": "0.0.1",
+  "description": "Es una simple base de datos",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Daisukeland",
+  "license": "ISC"
+}
